@@ -45,12 +45,3 @@ push            = false
 ]
 "src/hello/__init__.py" = ["{version}"]
 
-"setup.py" = [
-    "{version}",
-    "{pep440_version}",
-]
-"README.md" = [
-    "{version}",
-    "{pep440_version}",
-]
-
