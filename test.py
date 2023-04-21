@@ -1,4 +1,3 @@
-from kp_hello_lib import say_hi
+import kp_hello_lib as kp_hello
 
-
-say_hi()
+kp_hello.say_hi()

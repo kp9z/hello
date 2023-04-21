@@ -2,8 +2,6 @@ Metadata-Version: 2.1
 Name: kp-hello
 Version: 1.3.0
 Summary: A simple hello package
-Home-page: https://github.com/kp9z/hello
-Author: Kenny
 Author-email: Real Python <info@realpython.com>
 License: MIT License
         
