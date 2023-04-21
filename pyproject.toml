@@ -32,7 +32,7 @@ Homepage = "https://github.com/realpython/reader"
 realpython = "hello.__main__:main"
 
 [tool.bumpver]
-current_version = "1.1.0"
+current_version = "1.2.0"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message  = "Bump version {old_version} -> {new_version}"
 commit          = true
