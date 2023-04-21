@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: hello
+Version: 0.1
+Summary: A simple hello world package
+Home-page: https://github.com/kp9z/hello
+Author: Kenny
+Author-email: hi@anhtrinh.com
+License: MIT
+License-File: LICENSE
