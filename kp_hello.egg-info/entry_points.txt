@@ -1,0 +1,2 @@
+[console_scripts]
+realpython = hello.__main__:main

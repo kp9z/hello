@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kp-hello"
-version = "1.1.0"
+version = "1.2.0"
 description = "A simple hello package"
 readme = "README.md"
 authors = [{ name = "Real Python", email = "info@realpython.com" }]
@@ -41,7 +41,7 @@ push            = false
 
 [tool.bumpver.file_patterns]
 "pyproject.toml" = [
-    'current_version = "{version}"',
+    'current_version = "{version}"', 'version = "{version}"'
 ]
 "src/hello/__init__.py" = ["{version}"]
 
