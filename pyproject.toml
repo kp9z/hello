@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kp-hello"
-version = "1.4.0"
+version = "1.5.0"
 description = "A simple hello package"
 readme = "README.md"
 authors = [{ name = "Real Python", email = "info@realpython.com" }]
@@ -32,7 +32,7 @@ Homepage = "https://github.com/realpython/reader"
 realpython = "kp_hello_lib.__main__:main"
 
 [tool.bumpver]
-current_version = "1.4.0"
+current_version = "1.5.0"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message  = "Bump version {old_version} -> {new_version}"
 commit          = true
