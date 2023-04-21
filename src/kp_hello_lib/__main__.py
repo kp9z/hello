@@ -1,4 +1,4 @@
-from utils import say_hi
+from .utils import say_hi
 
 def main():
     print("this is the main function")
